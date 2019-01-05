@@ -77,4 +77,36 @@ The robots, now crowded around the reassembled factory, scattered in various dir
 
 "So what we gonna do, tell him it wasn't necessary?"
 
-"Nah, sod that."
+"Okay, sure, let's go.
+He might enjoy that we've been able to reduce the price.
+Do you remember the teleporter coords?"
+
+"Sure do!"
+
+. . .
+
+The teleporter dropped them off near the home of Reginald Johnson, the city's mayor.
+While the mayor was, indeed, a wealthy man, his house did not resemble the houses of his equally-rich colleagues.
+Indeed, while other houses had all sorts of curious electronic delights on every surface, his was a great example of a mansion of Vitruvian proportions -- only large.
+
+Mr Johnson himself was walking around the garden, surveying his front lawn orchard, and just as Simon stepped into the garden, he tore his eyes away from one particularly interesting shrubbery, saying:
+
+"Ah, hello Simon -- oh, and Mitch too!
+What brings you here?"
+
+"Good morning, Mr Johnson," said Mitch, glancing at the (admittedly very nice) shrubs surrounding him, "we just wanted to tell you we found a way to use actual robots to..."
+
+"Ah, that's all very well and good, but I'm sorry boys, I've retired from office, so..."
+
+"You've *WHAT??*"
+
+"Retired. I've realized I've grown too old for all this new AI technology.
+I have to pass the reins, as it were, to someone who knows this sort of thing well."
+
+"And that person might be?.." asked Simon, fearing the worst.
+
+"Mr {{x}}, a asidjiqweniunsdifnohijnwioebuggeroffioiejrowrjnukejnazajakunfijoweneron!"
+
+The distant thunderclap and neighing horses confirmed their suspicions.
+This was *the* Mr {{x}}, He Who Waits Behind The Wall.
+He was infamous for his efforts to sabotage Virtudyne's research into AI technology.
