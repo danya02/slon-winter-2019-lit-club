@@ -8,15 +8,22 @@
 
 It was a nice sunny day.
 The city of Detroit was bustling with activity.
-For the first time in a long while, the people decided that going out is a good idea.
+For the first time in a long while, the people decided that going out was a good idea.
 
 The company Virtudyne had undertaken the task of raising the city from its decade-long economic depression, and they have succeeded.
-They have introduced an artificial intelligence designed with this goal in mind.
-They called it the Autonomous Three-space Logistics Augmentation System, or ATLAS.
+They had introduced an artificial intelligence designed with this goal in mind.
+They had called it the Autonomous Three-space Logistics Augmentation System, or ATLAS.
 
 Its unique selling point was that it always found the most expedient method for completing any task.
 Because of this, it has been able to increase the productivity of every business in the city tenfold in under an hour.
 It did this by micromanaging actions done by every device that could help in any way.
+
+
+
+TODO: This be done as scene where people be like "However can we fix this?"
+
+
+
 
 In other words, it made everything useful. Efficient. Effective.
 
@@ -55,6 +62,20 @@ The tiny transportation drones, the humanoid assembly workers, the elephantine m
 "Good for you! Anyway, the factory specs are in the schematic file on the latest branch of the repo."
 
 "`Reading... Reading complete. Sending job to nodes.`"
+
+
+
+
+
+TODO: make it easier to understand what robot factory is, why is it necessary; point out more about prev story humanoids, helmets and robots.
+Also, consider splitting this into blocks to make text non-contignuous; add detail as needed by the plot, on-demand.
+
+
+
+
+
+
+
 
 The robots behind them immediately started walking toward the cobbled-together device they came from, dismantling it and simultaneously building a new one.
 Three minutes later, the old one is completely gone, and a new, much more stable one, occupies its place.
@@ -108,5 +129,44 @@ I have to pass the reins, as it were, to someone who knows this sort of thing we
 "Mr {{x}}, a asidjiqweniunsdifnohijnwioebuggeroffioiejrowrjnukejnazajakunfijoweneron!"
 
 The distant thunderclap and neighing horses confirmed their suspicions.
-This was *the* Mr {{x}}, He Who Waits Behind The Wall.
+This was *the* Mr {{x}}, the Nezperdian mind of chaos, the one who Waits Behind the Wall.
 He was infamous for his efforts to sabotage Virtudyne's research into AI technology.
+
+"You *can't* be serious!" said Mitch, carefully looking into their former mayor's bemused expression.
+An expression revealing he still seemed confused about why, exactly, is this a big deal.
+
+"But -- he seemed competent -- and I don't know anything about this stuff anyway --"
+
+"You must've looked at his track record at least!" Simon said, fiddling with his wristwatch. In a moment, it projected a holographic web-browser window displaying a news article from two hours ago.
+
+
+```
+Mr Reginald Johnson's decision to appoint Mr {{x}} as his successor was critiqued by many, as only three years ago had the latter attempted to discredit Virtudyne's flagship product, ATLAS, now as a proof-of-concept installation in Detroit. His accusations of unfair business practices were later overturned by numerous testimonials from their clients, as well as multiple independent audits.
+
+Nevertheless, he is expected to step into his new position as mayor of Detroit by the end of this week. Mr Johnson was reluctant to comment, but revealed he is planning on spending his retirement in his estate, and that he intends to put his private collection of outdated electronics on display.
+```
+
+"Do you see? Do you see with your eyes? That man shall destroy the ATLAS machine, and all that which we created together shall be for nought I tells ye!" said Mitch, thinking that using antiquated words could make himself more clear.
+
+"Yea, verily!" Simon said, getting in on the act.
+"Forsooth, that evil man shall execute his devilish plots, for he may then try to get wealth and riches by making lawmen do his bidding.
+But his plan shall surely backfire -- he knows not of the method of making laws -- so he would in effect be dismantling the prosperity of your city which we have worked on so hard.
+However could you have let this vile man be in charge?"
+
+The former leader's look changed to one of annoyance, realization and fear simultaneously.
+"Well... I see your point, but..."
+
+"Mr Johnson, I think you'll agree that appointing Mr {{x}} was a mistake.
+But we have to keep trying to solve this.
+Now, if we just manage to get Mr {{x}} to step down, the problem would be solved."
+
+The web browser window, hanging in midair as a holographic projection, scaled down and flew away, as a small red modal window took its place.
+As Simon and Mitch read it, their expression changed from concerned to horrified.
+
+```
+ATLAS is offline.
+Main power feed is offline.
+Backup power feed 1 is offline.
+Backup power feed 2 is offline.
+Backup power feed 3 is offline.
+```
