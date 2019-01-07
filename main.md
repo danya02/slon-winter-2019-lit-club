@@ -56,7 +56,18 @@ And so, ATLAS was installed throughout the city.
 But it soon became obvious that the easiest way forward would be to improve people themselves.
 So ATLAS used neural implant technology to get them to do more efficiently.
 
+During that brief period, the landscape looked eerie.
+Every single person had a predefined schedule.
+Every day at 8:30, thousands of people would immediately wake up, and exactly 314 seconds later, they would leave their home and walk to where they are needed most today.
+Eight hours later, every stove in the city would turn on and start cooking the dinner for their human, who would return three hours later.
+All the dinner is eaten by 19:40, and three minutes later, the showers would start turning on one by one with a three-second delay -- not to overload the pipes -- and they would all be off 40 minutes later.
+By 20:30, everyone would be asleep, and the cycle would repeat.
+
 This went against its original goal: ATLAS was designed to help people, not use them.
+The best macroeconomics specialists tried to come up with an alternate solution for the problem.
+But its logic is sound, and it knows no emotion.
+It wouldn't back down.
+
 So Simon, the systems architect, and Mitch, the lead systems administrator, stopped it before it could do any more damage.
 That was, of course, greatly appreciated by the people who were thusly forced to do whatever ATLAS thought they would do best.
 
