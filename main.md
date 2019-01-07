@@ -10,28 +10,55 @@ It was a nice sunny day.
 The city of Detroit was bustling with activity.
 For the first time in a long while, the people decided that going out was a good idea.
 
-The company Virtudyne had undertaken the task of raising the city from its decade-long economic depression, and they have succeeded.
-They had introduced an artificial intelligence designed with this goal in mind.
+Some time ago, the company Virtudyne had decided to target the lucrative market of AI in business automation.
+They had introduced an artificial intelligence designed for this purpose, and for other AI automation tasks.
 They had called it the Autonomous Three-space Logistics Augmentation System, or ATLAS.
-
 Its unique selling point was that it always found the most expedient method for completing any task.
-Because of this, it has been able to increase the productivity of every business in the city tenfold in under an hour.
-It did this by micromanaging actions done by every device that could help in any way.
 
+When the first beta was created, Virtudyne's salesmen would go to large companies.
+The discussion would usually go along the lines of:
 
+"Good morning, Mr Richards.
+Am I correct in assuming you're the CTO of Initech Inc?
+I'm here to present to you Virtudyne's flagship product, ATLAS.
+Could you please tell me, in what areas of your business do you think you have any inefficiencies?"
 
-TODO: This be done as scene where people be like "However can we fix this?"
+"Well, we're currently trying to transfer some data from our old systems, but no-one ever has found a way to automate that..."
 
+"Well, ATLAS can!" the salesman would say, opening up the laptop, and the ATLAS logo would appear, and then it would ask a couple of questions:
 
+"`Good morning. What seems to be the problem?`"
 
+"We need to transfer some data from an antique system."
 
-In other words, it made everything useful. Efficient. Effective.
+"`Okay, your goal is: INFORMATION TRANSFER. Please connect device 0x2F to the host machine and open the information source.`"
+
+The salesman would take from his suitcase a small spherical device labeled "Device 2F -- for electronic device manipulation",
+put it down on the keyboard of the rusting VT100 terminal, and it would unfold into a spider-like mechanical wonder, and it would begin typing really quickly, reading all the data from the computer.
+
+"`Reading complete. Please choose a schema for the information output.`"
+
+And the salesman would carry the mechanical spider across to the new computer, open a spreadsheet program, and it would just as rapidly type that into the other computer.
+
+"`Job aborted: Demo mode is limited to 2048 data entries. To proceed, please purchase a license.`"
+
+Then the salesman would show how the system could quickly and efficiently do other menial tasks, like clean all the rooms on the floor in less than two minutes, or tasks which require logic, like fixing a laser printer, or that which requires interfacing, like finding all of Mr Richards's model cars and reprogramming them to race around the room.
+
+Usually, Mr Richards himself would be observing this.
+He would be decidedly impressed, and would usually get an invoice in the mail the next day.
+
+The potential of such a system is enormous.
+So, by the time of the second beta, they decided to try to market it to the city of Detroit, then suffering from economic decay.
+
+And so, ATLAS was installed throughout the city.
+
 
 But it soon became obvious that the easiest way forward would be to improve people themselves.
 So ATLAS used neural implant technology to get them to do more efficiently.
 
 This went against its original goal: ATLAS was designed to help people, not use them.
-So Simon, the systems architect, and Mitch, the lead systems administrator, took it upon themselves to fix it.
+So Simon, the systems architect, and Mitch, the lead systems administrator, stopped it before it could do any more damage.
+That was, of course, greatly appreciated by the people who were thusly forced to do whatever ATLAS thought they would do best.
 
 So while the citizens of Detroit were rejoicing at their freedom and enjoying their city's rise in economy, these two techies were hard at work fixing the algorithm.
 
@@ -43,7 +70,7 @@ So while the citizens of Detroit were rejoicing at their freedom and enjoying th
 
 "Yeah, great. So push that into the repo, and I'm starting the test suite."
 
-The blue dialogue box flickered for a few secods with the words "Restarting..." before switching back to "ATLAS Management Console v.2.0.7 -- Start unit testing?"
+The blue dialogue box flickered for a few seconds with the words "Restarting..." before switching back to "ATLAS Management Console v.2.0.7 -- Start unit testing?"
 
 "Right, the update's been accepted, the robot factory is online and at capacity, let's do this." said Simon, pushing the OK button.
 
@@ -94,6 +121,10 @@ The robots, now crowded around the reassembled factory, scattered in various dir
 
 "Oh, by the way Simon," said Mitch, packing away his laptop, "didn't you get Mr Johnson to buy a lot of these Model TX helmets?"
 
+The helmets were the on-the-spot solution to the problem that without commandeering humans, ATLAS couldn't do its job properly.
+The initial idea was that ATLAS could just tell people what to do, and they would do it.
+But the out-of-the-box idea -- one more compatible with ATLAS -- is to just use robots in the first place.
+
 "Oh right I did, I forgot we could just build a robot factory."
 
 "So what we gonna do, tell him it wasn't necessary?"
@@ -117,46 +148,51 @@ What brings you here?"
 
 "Good morning, Mr Johnson," said Mitch, glancing at the (admittedly very nice) shrubs surrounding him, "we just wanted to tell you we found a way to use actual robots to..."
 
-"Ah, that's all very well and good, but I'm sorry boys, I've retired from office, so..."
+"Ah, I'm sorry boys, I'm not in charge anymore, so..."
 
-"You've *WHAT??*"
+"W-what?
+But why?"
 
-"Retired. I've realized I've grown too old for all this new AI technology.
-I have to pass the reins, as it were, to someone who knows this sort of thing well."
+"Well, you see, after the ATLAS neural implant debacle, the people decided they aren't having it.
+So they asked me, nay, forced me, to step down from office -- I had to give my post to another person."
 
 "And that person might be?.." asked Simon, fearing the worst.
 
-"Mr {{x}}, a asidjiqweniunsdifnohijnwioebuggeroffioiejrowrjnukejnazajakunfijoweneron!"
+"Mr {{x}}, a asidjiqweniunsdifnohijnwioebuggeroffioiejrowrjnukejnazajakunfijoweneron."
 
 The distant thunderclap and neighing horses confirmed their suspicions.
 This was *the* Mr {{x}}, the Nezperdian mind of chaos, the one who Waits Behind the Wall.
 He was infamous for his efforts to sabotage Virtudyne's research into AI technology.
 
-"You *can't* be serious!" said Mitch, carefully looking into their former mayor's bemused expression.
-An expression revealing he still seemed confused about why, exactly, is this a big deal.
+"You *can't* be serious!"
 
-"But -- he seemed competent -- and I don't know anything about this stuff anyway --"
+"Yeah, I understand that he's not the best person for the job, but -"
 
-"You must've looked at his track record at least!" Simon said, fiddling with his wristwatch. In a moment, it projected a holographic web-browser window displaying a news article from two hours ago.
+"But he's the *worst* possible person for the job! Have you actually heard about the guy?" Simon said, fiddling with his wristwatch.
+In a moment, it projected a holographic web-browser window displaying a news article from two hours ago.
 
 
 ```
-Mr Reginald Johnson's decision to appoint Mr {{x}} as his successor was critiqued by many, as only three years ago had the latter attempted to discredit Virtudyne's flagship product, ATLAS, now as a proof-of-concept installation in Detroit. His accusations of unfair business practices were later overturned by numerous testimonials from their clients, as well as multiple independent audits.
+Mr Reginald Johnson, longtime mayor of Detroit, had been deposed by an impromptu election, after a city-wide protest caused by an earlier failure of the newfangled ATLAS system that forced citizens to do its bidding via neural implants.
 
-Nevertheless, he is expected to step into his new position as mayor of Detroit by the end of this week. Mr Johnson was reluctant to comment, but revealed he is planning on spending his retirement in his estate, and that he intends to put his private collection of outdated electronics on display.
+The rally was led by Mr {{x}}. The protesters called for the latter to be put into office, citing Mr Johnson's inability to prevent the ATLAS-initiated enslavement from occurring. Mr {{x}} claimed that, as his first action in office, he intends on greatly limiting the scope of ATLAS's influence.
+
+An ad-hoc election had just taken place, and the results are in: at 71.4% votes, Mr {{x}} won the election and is expected to step into his new position as mayor of Detroit by the end of this week.
+
+Mr Johnson was reluctant to comment, but revealed he is planning on spending his retirement in his estate, and that he intends to put his private collection of outdated electronics on display.
 ```
 
 "Do you see? Do you see with your eyes? That man shall destroy the ATLAS machine, and all that which we created together shall be for nought I tells ye!" said Mitch, thinking that using antiquated words could make himself more clear.
 
 "Yea, verily!" Simon said, getting in on the act.
 "Forsooth, that evil man shall execute his devilish plots, for he may then try to get wealth and riches by making lawmen do his bidding.
-But his plan shall surely backfire -- he knows not of the method of making laws -- so he would in effect be dismantling the prosperity of your city which we have worked on so hard.
+But his plan shall surely backfire -- he knows not of the ways of lawmaking, nor has he any knowledge of politics, nor can he be knowing of the method of managing the city well -- so he would in effect be dismantling the prosperity of your city which we have worked on so hard.
 However could you have let this vile man be in charge?"
 
 The former leader's look changed to one of annoyance, realization and fear simultaneously.
 "Well... I see your point, but..."
 
-"Mr Johnson, I think you'll agree that appointing Mr {{x}} was a mistake.
+"Mr Johnson, I think you'll agree that allowing Mr {{x}} to win so easily was a mistake.
 But we have to keep trying to solve this.
 Now, if we just manage to get Mr {{x}} to step down, the problem would be solved."
 
@@ -165,8 +201,8 @@ As Simon and Mitch read it, their expression changed from concerned to horrified
 
 ```
 ATLAS is offline.
-Main power feed is offline.
-Backup power feed 1 is offline.
-Backup power feed 2 is offline.
-Backup power feed 3 is offline.
 ```
+
+"What? But we've got 4 backup power feeds on-site!" said Mitch, shocked.
+
+"Yes indeed, but apparently our adversary has found out about this."
