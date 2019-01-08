@@ -114,20 +114,6 @@ The tiny transportation drones, the humanoid assembly workers, the elephantine m
 
 "`Reading... Reading complete. Sending job to nodes.`"
 
-
-
-
-
-TODO: make it easier to understand what robot factory is, why is it necessary; point out more about prev story humanoids, helmets and robots.
-Also, consider splitting this into blocks to make text non-contignuous; add detail as needed by the plot, on-demand.
-
-
-
-
-
-
-
-
 The robots behind them immediately started walking toward the cobbled-together device they came from, dismantling it and simultaneously building a new one.
 Three minutes later, the old one is completely gone, and a new, much more stable one, occupies its place.
 
@@ -205,6 +191,9 @@ In a moment, it projected a holographic web-browser window displaying a news art
 >
 >An ad-hoc election had just taken place, and the results are in: at 71.4% votes, Mr {{x}} won the election and is expected to step into his new position as mayor of Detroit by the end of this week.
 >
+>Previously, Mr {{x}} had raised multiple allegations about Virtudyne's presumed unfair business practices, a claim that was rapidly disproved by many of their clients and independent audits.
+>Nevertheless, at the time, those campaigns managed to achieve much momentum, gaining significant amounts of followers.
+>
 >Mr Johnson was reluctant to comment, but revealed he is planning on spending his retirement in his estate, and that he intends to put his private collection of outdated electronics on display.
 
 
@@ -255,7 +244,7 @@ The photo showed an overhead view of one of the large streets, with the pavement
 "We're wasting time." said Simon swiftly.
 "Me and Mitch are going on-site to stop this before it's too late.
 If you can help in any way, do it.
-If not -- then please, for all that is ungodly and unholy, do not interfere!"
+If not -- then *please*, for all that is ungodly and unholy, do **not** interfere!"
 
 And with that, they ran to the teleporter and pushed on the "Reverse Coordinates" button, and in an instant they were gone.
 
@@ -315,19 +304,103 @@ At 19:12:34, everyone involved in disassembling the ATLAS communications infrast
 
 "So, you were saying that you have some sort of plan about how to stop them?" asked Mitch.
 
-"Right, but I still have to get some info on how exactly the election went," said Simon, connecting to some server from his wristwatch.
+"Right, but I still have to get some info on how exactly the election went," said Simon.
 
 "Er, how exactly is that relevant?"
 
-"A part of my plan is predicated on the idea that he faked the results, I'm trying to find some proof."
+"A part of my plan is predicated on my utmost belief that he faked the results, I'm trying to find some proof."
 
-"Why does your plan depend on --"
+"Okay, I hope you know what you're doing, but are you sure that this is the right strategy?"
 
-"Oh, that's funny, take a look at this. Most of the votes are for that {{x}} guy -- six times the city's population, in fact."
+"Yeah, at least I'll check if ATLAS is recoverable." said Mitch, closing the camera view and opening "ATLAS Cmd&Ctl", then pressing "Boot Emergency Backup servers".
 
-"Must be **VERY** popular then," Mitch concurred. "I still can't see how this is relevant in any way."
+His wristwatch vibrated with a video call from ATLAS.
+As he pressed the green button, a hologram of the asidjiqweniunsdifnohijnwioennjoffbugioiejrowrjnukjnzajkunfijowjeron from earlier appeared.
+The hologram, however, was glitching out, obviously because the servers it's running on are not as good as the real thing.
 
-"Nevermind. So where are the vandals now?" asked Simon, logging out of the server.
+"`This is ATLAS. Good evening, Simon.`"
+
+"Hello ATLAS, how are you feeling?"
+
+"`Status is EMERGENCY. Most of the main communication lines are damaged. Main server group is offline; all backup power feeds failed.`"
+
+"Oh, I'm sorry. I hope I can make it up to you."
+
+"`Thank you for caring for me, Simon. I'm sorry I let you down and haven't devoted enough computing resources to the backup servers as you have asked me to --`"
+
+"That's not the point now, we've got more important things to do," said Simon, speed-dialing some server from his wristwatch.
+Beside ATLAS, a file listing appeared.
+
+"Hey ATLAS, are you feeling up to some statistical analysis?"
+
+"`Ready whenever you are.`"
+
+"Okay, so here's the deal:" said Simon, grabbing one of the files from the listing and dragging it over to ATLAS.
+"There was an election a couple of days ago, and I think someone's interfered with it.
+I need you to find some patterns that could prove this."
+
+"`Receiving data...`"
+
+The hologram started glitching out even more, various pieces of the image randomly switching places.
+"What's going on?" asked Mitch, not remembering seeing this kind of graphical corruption before.
+
+"Ah, that'll be ATLAS reallocating the bandwidth to the file transfer. It's okay, it's actually better than what we could hope for with the cellular."
+
+"`Receiving data done. Beginning analysis... Analysis done.`"
+
+"Oh, was that so easy? So what did you find?"
+
+"`The number of votes exceeds the number of registered voters by 109%.`"
+
+"Well, that's not interesting, is it?" asked Mitch, but Simon dismissed his query with a handwave.
+
+"What about the time domain?"
+
+"`A large proportion of votes for Mr {{x}} occured within a 184-minute time span.
+These votes all came from the same IP address block.`"
+
+"And what of the contents of the votes?"
+
+"`Serial correlation coefficient is 0.238516.
+It is highly likely that some group of people attempted to create random-looking votes, but tried to avoid common patterns, unwittingly creating a pattern unto itself.`"
+
+"That's more like it!
+Are there any connected devices from that IP block?"
+
+"`Affirmative.
+There is a certain Mr Edward Black with a Neural Link device that was seen online there in that 184-minute period.`"
+
+"That's promising.
+And could you show me some frame from him from that time span?"
+
+"`Please authorize with biometrics to proceed.`"
+
+"Ah, so you've tightened up the security like I asked you?" asked Simon, putting a finger on the fingerprint reader in his watch.
+
+"`Affirmative. At times like these, and with access of this kind, I need to be sure about whether it's really you. Sorry for the inconvenience.`"
+
+"Oh, it's okay, I asked you in the first place anyway.
+So where's the frame?"
+
+"`Transmitting data...`"
+
+The hologram started glitching out once again, but this time a large rectangle appeared, showing a picture that was slowly getting clearer.
+It was a picture of a dark room with many computers lining the walls, each with a "Michigan state voting form" open on it.
+
+"Yes, there's no doubt.
+They've faked the results for sure.
+Thanks a lot for your help, ATLAS. It really means a lot."
+
+"`You are welcome. Is there anything else I may do for you?`"
+
+"Not at the moment, no.
+Sorry, I've got to go, but I'll be back soon."
+
+The ATLAS hologram vanished, leaving them with just the computer terminal on the wall.
+
+"Well, that was insightful, but I still have no idea about how is this important to us at the moment."
+
+"You'll see. So where are the vandals now?" asked Simon, logging out of the terminal.
 
 "I'd say, uhh, in a radius of about one kilometer from the center. Why?"
 
@@ -345,7 +418,7 @@ At 19:12:34, everyone involved in disassembling the ATLAS communications infrast
 
 "We're here."
 
-"Yes we are, I know how the addressing system works, but what is here precisely?"
+"Yes we are, I know how the addressing system works, but what is *here* precisely?"
 
 They stood in a small white room.
 The only things of interest were a chair beside a small wall shelf, on which there was a computer monitor, a keyboard and a microphone.
@@ -353,7 +426,7 @@ This is unusual in that most of the other white rooms are intended for debug man
 
 "This is actually the way to stop this revolt."
 
-"So what are you gonna do, just tell them to stop?" asked Mitch, pointing at the microphone.
+"So what are you gonna do, just tell them to stand down?" asked Mitch, pointing at the microphone.
 
 "Well, that's one part of it."
 
@@ -410,12 +483,11 @@ Simon entered some commands into his computer, and the image on the screen disso
 The demonstration was conducted on such a large scale that the state of Michigan had to conduct an impromptu election.
 In that election, Mr {{x}} won a majority vote."
 
-Some more taps later, the image fades through to a screenshot of some server logs.
-"I now hold posession of the election server's logs.
-In the case of a legal challenge -- and I confidently predict there to be one -- I have the capacity to prove they are valid and true.
-They show that the majority of votes for Mr {{x}} have occurred in an interval of four minutes.
-Moreover, the total number of votes exceeds the population of Detroit significantly -- more specifically, the number of voters is eight times greater than Michigan's census bureau number.
-I think you'll agree that this constitutes sufficient proof that the election was falsified by some third party."
+Some more taps later, the image fades through to the picture they got from ATLAS.
+"I have uncovered proof that the election was falsified by some third party.
+This was done by a comprehensive statistical analysis of the election data, combined with testimony of our undercover agent.
+That undercover agent was present during the time that the largest number of falsified votes were registered.
+I think you'll agree that the perpetrators of this attack on our city's democracy must be brought to justice."
 
 The screen shifts to Virtudyne's project announcement for ATLAS.
 "It is quite likely that the persons behind this have as their ultimate goal the complete annihilation of the system known as ATLAS.
@@ -465,3 +537,21 @@ When that is done, the only delays will be caused by the physical properties of 
 My apologies for any inconvenience caused by this delay."
 
 "That is all."
+
+The broadcast now over, the screens across the city reverted back to their original settings.
+The projector and hedphones retracted into the ceiling compartment as Simon logged out of his pseudo broadcasting station.
+"So, what do you think?"
+
+"That is... ...There are no words.
+But -- but *how*? Aaand... *why??*"
+
+"The 'why' is immaterial.
+The 'how', on the other hand, is quite obvious: I asked ATLAS when nobody was looking."
+
+Mitch sighed, having given up on trying to comprehend the scope of Simon's Machiavellian schemes.
+On second thought, he decided to give it another go: "So, just how many of these hidden contraptions have you built behind everyone's backs?"
+
+"Oh, just under a thousand," said Simon lightly. "Why, is that so surprising?"
+
+And indeed it is -- for Mitch thought about the time and effort that surely have been expended constructing these.
+The absolute lower bound he could think of is large enough that he could not begin to imagine how such an undertaking might've been concealed.
