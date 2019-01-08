@@ -110,7 +110,8 @@ The tiny transportation drones, the humanoid assembly workers, the elephantine m
 
 "`Affirmative. There was 792.94 seconds of idle CPU cycles, so I have created a 3D model based on the highest-rated person in this year's world beauty contest.`"
 
-"Good for you! Anyway, the factory specs are in the schematic file on the latest branch of the repo."
+"Yeah, that's a nice look -- good for you!
+Anyway, the factory specs are in the schematic file on the latest branch of the repo."
 
 "`Reading... Reading complete. Sending job to nodes.`"
 
@@ -119,7 +120,7 @@ Three minutes later, the old one is completely gone, and a new, much more stable
 
 "`Job done. Awaiting commands.`"
 
-"Good AI. Now, could you please try and maximize stats 5, 9, 24 and 107, and minimize stat 39?"
+"Great job! Now, could you please try and maximize stats 5, 9, 24 and 107, and minimize stat 39?"
 
 "`Job accepted. Executing.`"
 
@@ -160,7 +161,7 @@ What brings you here?"
 
 "Ah, I'm sorry boys, I'm not in charge anymore, so..."
 
-"W-what?
+"*WHAT??*
 But why?"
 
 "Well, you see, after the ATLAS neural implant debacle, the people decided they aren't having it.
@@ -246,7 +247,7 @@ The photo showed an overhead view of one of the large streets, with the pavement
 If you can help in any way, do it.
 If not -- then *please*, for all that is ungodly and unholy, do **not** interfere!"
 
-And with that, they ran to the teleporter and pushed on the "Reverse Coordinates" button, and in an instant they were gone.
+And with that, they ran to the teleporter and pushed the "Reverse Coordinates" button, and in an instant they were gone.
 
 . . .
 
@@ -257,8 +258,8 @@ The ATLAS Management Console was nowhere to be seen, a large hole occupying its 
 
 "Huh? What are you talking about?"
 
-"Mr {{x}} may be influential, but he's not actually insightful.
-Cutting cables underground -- and overground, it may seem -- is the obvious thing to do, and indeed, it proved to be quite effective -- but it's like they say: 'What you don't know...'"
+"Mr {{x}} may be influential, but he's not actually that insightful.
+Cutting cables underground -- and above-ground, it may seem -- is the obvious thing to do, and indeed, it proved to be quite effective -- but it's like they say: 'What you don't know...'"
 
 "...can't hurt you', yes."
 
@@ -324,9 +325,9 @@ The hologram, however, was glitching out, obviously because the servers it's run
 
 "`Status is EMERGENCY. Most of the main communication lines are damaged. Main server group is offline; all backup power feeds failed.`"
 
-"Oh, I'm sorry. I hope I can make it up to you."
+"Oh, I'm so sorry they did this to you. I hope I can make it up to you."
 
-"`Thank you for caring for me, Simon. I'm sorry I let you down and haven't devoted enough computing resources to the backup servers as you have asked me to --`"
+"`Thank you for caring about me, Simon. I'm sorry I let you down and haven't devoted enough computing resources to the backup servers as you have asked me to --`"
 
 "That's not the point now, we've got more important things to do," said Simon, speed-dialing some server from his wristwatch.
 Beside ATLAS, a file listing appeared.
@@ -356,7 +357,7 @@ The hologram started glitching out even more, various pieces of the image random
 
 "What about the time domain?"
 
-"`A large proportion of votes for Mr {{x}} occured within a 184-minute time span.
+"`A large proportion of votes for Mr {{x}} occurred within a 184-minute time span.
 These votes all came from the same IP address block.`"
 
 "And what of the contents of the votes?"
@@ -542,16 +543,47 @@ The broadcast now over, the screens across the city reverted back to their origi
 The projector and hedphones retracted into the ceiling compartment as Simon logged out of his pseudo broadcasting station.
 "So, what do you think?"
 
-"That is... ...There are no words.
-But -- but *how*? Aaand... *why??*"
+"That is, like... ...I don't know what to say.
+But -- but *how*? A-and... *why??*"
 
 "The 'why' is immaterial.
 The 'how', on the other hand, is quite obvious: I asked ATLAS when nobody was looking."
 
 Mitch sighed, having given up on trying to comprehend the scope of Simon's Machiavellian schemes.
-On second thought, he decided to give it another go: "So, just how many of these hidden contraptions have you built behind everyone's backs?"
+"Anyway, we should really try to fix the damage that's done here."
 
-"Oh, just under a thousand," said Simon lightly. "Why, is that so surprising?"
+"Should I get a couple of the small robots from the lab to fix the server connections?"
 
-And indeed it is -- for Mitch thought about the time and effort that surely have been expended constructing these.
-The absolute lower bound he could think of is large enough that he could not begin to imagine how such an undertaking might've been concealed.
+"Yeah, do that.
+I'm going to Mr Johnson to tell him all about it."
+
+. . .
+
+"Mr Johnson, are you there?"
+
+"Simon?
+What's going on?"
+The not-so-former-anymore mayor was sitting in a lawn chair, evidently worried about whatever it is that was going on in the city.
+
+Simon then explained all that happened, conveniently leaving aside the fact that he was the voice on the screen.
+Mr Johnson, meanwhile, looked very concerned indeed.
+
+"So... what happens now?" he asked, looking quite lost.
+
+"What happens now is: the Michigan state has confirmed that they have received the information from this S guy's investigation, and they are going to redo the election.
+I am absolutely certain that you will win this time.
+And when that happens, everything will be as it was before -- I have already left Mitch to bring ATLAS back online..."
+he paused, glancing at his watch, "... and it looks like he has already done that."
+
+The video phone in his watch connected to ATLAS, and now the connection was thankfully glitch-free.
+"`I am ATLAS. Good evening, Simon. Good evening, Mr Reginald Johnson.`"
+
+"Hi, ATLAS. Are you running from the main server cluster now?"
+
+"`Affirmative. Mitch, as root, is now logged in.`"
+
+"Oh, then tell him I said hi.
+Anyway, so now that you're okay, I'd like you to rebuild the damaged connections -- and the pavement, too.
+Can you do that?"
+
+"`Job accepted, executing.`"
