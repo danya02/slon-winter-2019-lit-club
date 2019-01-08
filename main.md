@@ -105,12 +105,12 @@ The tiny transportation drones, the humanoid assembly workers, the elephantine m
 
 "`Good evening, Simon. Good evening, Mitch.`" said an unseen voice from the intricate machine on the city's main square.
 
-"Ah, hi ATLAS. Could you please upgrade the robot factory so it's more stable?" said Simon, looking at the machine's screen, now showing a asidjiqweniunsdifnohijnwioennjoffbugioiejrowrjnukjnzajkunfijowjeron.
+"Ah, hi ATLAS. Could you please upgrade the robot factory so it's more stable?" said Simon, looking at the machine's screen, from which a 3D model of a popular musical robot now looked across the square.
 "By the way, did you improve your GUI?"
 
-"`Affirmative. There was 792.94 seconds of idle CPU cycles, so I have created a 3D model based on the highest-rated person in this year's world beauty contest.`"
+"`Affirmative. There was 792.94 seconds of idle CPU cycles, so I have created a three-dimensional representation of how I would prefer to look like.`"
 
-"Yeah, that's a nice look -- good for you!
+"Yeah, that's a nice look -- it definitely suits you!
 Anyway, the factory specs are in the schematic file on the latest branch of the repo."
 
 "`Reading... Reading complete. Sending job to nodes.`"
@@ -169,10 +169,10 @@ So they asked me, nay, forced me, to step down from office -- I had to give my p
 
 "And that person might be?.." asked Simon, fearing the worst.
 
-"Mr {{x}}, a asidjiqweniunsdifnohijnwioebuggeroffioiejrowrjnukejnazajakunfijoweneron."
+"Mr Archibald Reeds."
 
 The distant thunderclap and neighing horses confirmed their suspicions.
-This was *the* Mr {{x}}, the Nezperdian mind of chaos, the one who Waits Behind the Wall.
+This was *the* Mr Archibald Reeds, the Nezperdian mind of chaos, the one who Waits Behind the Wall.
 He was infamous for his efforts to sabotage Virtudyne's research into AI technology.
 
 "You *can't* be serious!"
@@ -186,13 +186,13 @@ In a moment, it projected a holographic web-browser window displaying a news art
 
 >Mr Reginald Johnson, longtime mayor of Detroit, had been deposed by an impromptu election, after a city-wide protest caused by an earlier failure of the newfangled ATLAS system that forced citizens to do its bidding via neural implants.
 >
->The rally was led by Mr {{x}}.
+>The rally was led by Mr Archibald Reeds.
 >The protesters called for the latter to be put into office, citing Mr Johnson's inability to prevent the ATLAS-initiated enslavement from occurring.
->Mr {{x}} claimed that, as his first action in office, he intends on greatly limiting the scope of ATLAS's influence.
+>Mr Reeds claimed that, as his first action in office, he intends on greatly limiting the scope of ATLAS's influence.
 >
->An ad-hoc election had just taken place, and the results are in: at 71.4% votes, Mr {{x}} won the election and is expected to step into his new position as mayor of Detroit by the end of this week.
+>An ad-hoc election had just taken place, and the results are in: at 71.4% votes, Mr Reeds won the election and is expected to step into his new position as mayor of Detroit by the end of this week.
 >
->Previously, Mr {{x}} had raised multiple allegations about Virtudyne's presumed unfair business practices, a claim that was rapidly disproved by many of their clients and independent audits.
+>Previously, Mr Reeds had raised multiple allegations about Virtudyne's presumed unfair business practices, a claim that was rapidly disproved by many of their clients and independent audits.
 >Nevertheless, at the time, those campaigns managed to achieve much momentum, gaining significant amounts of followers.
 >
 >Mr Johnson was reluctant to comment, but revealed he is planning on spending his retirement in his estate, and that he intends to put his private collection of outdated electronics on display.
@@ -208,9 +208,9 @@ However could you have let this vile man be in charge?"
 The former leader's look changed to one of annoyance, realization and fear simultaneously.
 "Well... I see your point, but..."
 
-"Mr Johnson, I think you'll agree that allowing Mr {{x}} to win so easily was a mistake.
+"Mr Johnson, I think you'll agree that allowing Mr Reeds to win so easily was a mistake.
 But we have to keep trying to solve this.
-Now, if we just manage to get Mr {{x}} to step down, the problem would be solved."
+Now, if we just manage to get him to step down, the problem would be solved."
 
 The web browser window, hanging in midair as a holographic projection, scaled down and flew away, as a small red message box took its place.
 As Simon and Mitch read it, their expression changed from concerned to horrified in a split second.
@@ -237,7 +237,7 @@ ATLAS is offline.
 
 "I've got a frame from camera A241 at 320p!" said Mitch, swiping the holo-display with increasing velocity.
 
-"What's going on, my good man, is Mr {{x}} is bulldozing the streets of Detroit!" said Simon, grabbing a rectangle on the holo-display and stretching it so he could see the photo.
+"What's going on, my good man, is Mr Reeds is bulldozing the streets of Detroit!" said Simon, grabbing a rectangle on the holo-display and stretching it so he could see the photo.
 The photo showed an overhead view of one of the large streets, with the pavement completely ruined, large excavators clawing at the sides, and a huge cable in the middle of the road cut in many places.
 
 "Whaa?..."
@@ -254,11 +254,11 @@ And with that, they ran to the teleporter and pushed the "Reverse Coordinates" b
 Stepping out of the teleporter, they were surprised to see, despite being given fair warning by the image they looked at back at Mr Johnson's place, that every road was upturned, and every cable in sight was cut.
 The ATLAS Management Console was nowhere to be seen, a large hole occupying its place.
 
-"Well," Simon sighed, "that's pretty much what I'd expect from someone like Mr {{x}} -- no finesse, just brute force and ignorance."
+"Well," Simon sighed, "that's pretty much what I'd expect from someone like that Reeds guy -- no finesse, just brute force and ignorance."
 
 "Huh? What are you talking about?"
 
-"Mr {{x}} may be influential, but he's not actually that insightful.
+"That guy may be influential, but he's not actually that insightful.
 Cutting cables underground -- and above-ground, it may seem -- is the obvious thing to do, and indeed, it proved to be quite effective -- but it's like they say: 'What you don't know...'"
 
 "...can't hurt you', yes."
@@ -316,74 +316,73 @@ At 19:12:34, everyone involved in disassembling the ATLAS communications infrast
 "Yeah, at least I'll check if ATLAS is recoverable." said Mitch, closing the camera view and opening "ATLAS Cmd&Ctl", then pressing "Boot Emergency Backup servers".
 
 His wristwatch vibrated with a video call from ATLAS.
-As he pressed the green button, a hologram of the asidjiqweniunsdifnohijnwioennjoffbugioiejrowrjnukjnzajkunfijowjeron from earlier appeared.
+As he pressed the green button, a hologram of ATLAS's new look from earlier appeared.
 The hologram, however, was glitching out, obviously because the servers it's running on are not as good as the real thing.
 
-"`This is ATLAS. Good evening, Simon.`"
+"`‌‌Thi͜s̕ is ATLǍŚ.ͫ Good ̥evenͅi̅ng,̈ Simon̓.`"
 
 "Hello ATLAS, how are you feeling?"
 
-"`Status is EMERGENCY. Most of the main communication lines are damaged. Main server group is offline; all backup power feeds failed.`"
+"`St͢atus is͙ EMĒRGENC̵Y.
+Most ofͥ ̯t͎he ̫m̙ain ͥcommuniͯca̟tion lines͡ are̎ ͈damag̾eḋ.̢ Ma͟i̋n servͥer̘ gr̸oup i̓s͔ ̱offli̓neͮ;́ al̫l ̴b̈ackup̆ power ̉f̊e̬ed͆s ͩfa͟iled.`"
 
 "Oh, I'm so sorry they did this to you. I hope I can make it up to you."
 
-"`Thank you for caring about me, Simon. I'm sorry I let you down and haven't devoted enough computing resources to the backup servers as you have asked me to --`"
+"`Th̦an̵k y͗òú ͣfor ̊c͌aring̥ abo̵u̳t me̝, ͉Simo͘n.
+ Ì'm ͉sor̋ry ̢I let yo͢u̙ ́down and have̍n't̰ ̶d̽evoteͥd en͇ough com͒putin̯g resͭo̡u͚rce̔s̕ to th͓e bac̴kup̻ servers a̐s̀ you ͨh̀ave ͡asͧked̀ me ̐to --`"
 
 "That's not the point now, we've got more important things to do," said Simon, speed-dialing some server from his wristwatch.
 Beside ATLAS, a file listing appeared.
 
 "Hey ATLAS, are you feeling up to some statistical analysis?"
 
-"`Ready whenever you are.`"
+"`Ready whenͧèver y͑ou a̭r̄e.`"
 
 "Okay, so here's the deal:" said Simon, grabbing one of the files from the listing and dragging it over to ATLAS.
 "There was an election a couple of days ago, and I think someone's interfered with it.
 I need you to find some patterns that could prove this."
 
-"`Receiving data...`"
+"`‌Receivi̢̖̙̹̝̬̒ͨng̷̤̊ͧ̋̉͑͞ ̩͍̝̣̠̆̄̋dą̳̦̊̉ͣ͗̓ta.̸̞̭̹̉̇̽ͅ.̶͔͔̣ͪ͌̃͗.`"
 
 The hologram started glitching out even more, various pieces of the image randomly switching places.
 "What's going on?" asked Mitch, not remembering seeing this kind of graphical corruption before.
 
 "Ah, that'll be ATLAS reallocating the bandwidth to the file transfer. It's okay, it's actually better than what we could hope for with the cellular."
 
-"`Receiving data done. Beginning analysis... Analysis done.`"
+"`‌Rḛc̏eiv͊ing͂ data dọne.ͧ ̂B̈egin̈ni͆ngͤ an̗aly̒sỉs̴..ͫ. An͉alysis̯ ̤d̆one̡.`"
 
 "Oh, was that so easy? So what did you find?"
 
-"`The number of votes exceeds the number of registered voters by 109%.`"
+"`The nu͋mbër̎ of v̲otes ̥exc̀eeds t͞he ͣn͛u͒mber o̽f ͞re͈gistȅred vo͢ters b̆y̿ ͇109%.̧`"
 
 "Well, that's not interesting, is it?" asked Mitch, but Simon dismissed his query with a handwave.
 
 "What about the time domain?"
 
-"`A large proportion of votes for Mr {{x}} occurred within a 184-minute time span.
-These votes all came from the same IP address block.`"
+"`A ̷large ̥pͬröporti̙on o͎f͉ vͥot̜eş for̫ Mr R̉eeds oc̐c͎urred ̒wi̪t̀h͢in a̭ ̳1̵84-̔min͈u̬te time̹ spa͛n̙. ͕These vͪotes all͉ ̆came f͉rom̼ the̅ sa̙mͅĕ IP̔ addr̊es̅s block.̢`"
 
 "And what of the contents of the votes?"
 
-"`Serial correlation coefficient is 0.238516.
-It is highly likely that some group of people attempted to create random-looking votes, but tried to avoid common patterns, unwittingly creating a pattern unto itself.`"
+"`Serial cor̿rel̠ati͐on̡ ̠c̿oeffic̅i̧ent isͥ ̕0́.23̷8516. ̀It͐ ̮is h̑igh͓l̲y li̔k̘ély that sͬome ̭gro͒up of̺ peopleͨ ḁt̅t̆empt̅ed̦ ͟to cr͖ea͌te̟ ͬrand͇om̂-lo̬ok͒ing v͢ŏtes̺, but t̛r̾ied toͮ ͐avoiḑ c̨o̵mmoṉ ̽pattḛrns, u̪nwͦittingly ͙cͅreating͊ a͝ pa͢tͦte͛rn̗ untͥo ̘itͣself͝. ҉`"
 
 "That's more like it!
 Are there any connected devices from that IP block?"
 
-"`Affirmative.
-There is a certain Mr Edward Black with a Neural Link device that was seen online there in that 184-minute period.`"
+"`‌Af̈fîrmaͬtiv͐e. T̑ḧere͙ is ̣a cͣert̋ain Mr ͆E͊dw̋ar͍d ͡B̍lack ͟witͮh a Neura͌lͤ Lͦi̪nḱ devïce tha͔t wa͜s see̩n ̸online tḧere ̞i̙n that 184̶-min͠uteͮ period.`"
 
 "That's promising.
 And could you show me some frame from him from that time span?"
 
-"`Please authorize with biometrics to proceed.`"
+"`‌Please a͗ut̉ḩorizȅ ̹wiṭh bio̒metric̵sͧ tͅo̒ proc͢eed̀.`"
 
 "Ah, so you've tightened up the security like I asked you?" asked Simon, putting a finger on the fingerprint reader in his watch.
 
-"`Affirmative. At times like these, and with access of this kind, I need to be sure about whether it's really you. Sorry for the inconvenience.`"
+"`‌Affirma̡ti̸vḙ. At̴ ̲times ̖li͆ke͙ ̅thͦe̙s͒e, ̠a͒n͋d w̳i̕th̳ access ͨof this ̨kind, ̎I n͐eed to ͧbͦe̻ sure ̯about whe̘thͫer it's real͂l͛y ̈ŷo̺u͘. Sorr̥y͕ for the inconven̩ience̺.`"
 
 "Oh, it's okay, I asked you in the first place anyway.
 So where's the frame?"
 
-"`Transmitting data...`"
+"`‌Tr͚͎͉ͮͯ̓̅ͯansmi̛̪̖̠̦̐̓͛ť̞̟̼̻̪̃̍tiņ̮̺͎̔ͬͩ̕g data̧͉̼̜̝̹̒͌..̦̹͔̯̀ͪͤ͜.`"
 
 The hologram started glitching out once again, but this time a large rectangle appeared, showing a picture that was slowly getting clearer.
 It was a picture of a dark room with many computers lining the walls, each with a "Michigan state voting form" open on it.
@@ -392,7 +391,7 @@ It was a picture of a dark room with many computers lining the walls, each with 
 They've faked the results for sure.
 Thanks a lot for your help, ATLAS. It really means a lot."
 
-"`You are welcome. Is there anything else I may do for you?`"
+"`‌You are ͅw͌e͖l̡com̟e.̜ Iͥs there anythͪing else I m͠ay do for you͕?`"
 
 "Not at the moment, no.
 Sorry, I've got to go, but I'll be back soon."
@@ -480,9 +479,9 @@ While Mitch was lost thinking about digital sound processing, Simon continued:
 I apologise for interrupting this fine evening, but this is of the utmost importance."
 
 Simon entered some commands into his computer, and the image on the screen dissolved into a screenshot of the news two days ago.
-"Some time ago, the individual named Mr {{x}} had been able to incite a revolt against Mr Reginald Johnson's administration.
+"Some time ago, the individual named Mr Archibald Reeds had been able to incite a revolt against Mr Reginald Johnson's administration.
 The demonstration was conducted on such a large scale that the state of Michigan had to conduct an impromptu election.
-In that election, Mr {{x}} won a majority vote."
+In that election, Mr Reeds won a majority vote."
 
 Some more taps later, the image fades through to the picture they got from ATLAS.
 "I have uncovered proof that the election was falsified by some third party.
@@ -492,14 +491,14 @@ I think you'll agree that the perpetrators of this attack on our city's democrac
 
 The screen shifts to Virtudyne's project announcement for ATLAS.
 "It is quite likely that the persons behind this have as their ultimate goal the complete annihilation of the system known as ATLAS.
-Mr {{x}} has a known track record of attempts to defame this project.
+Mr Reeds has a known track record of attempts to defame this project.
 It has to be noted that everything he had ever claimed as part of these defamation attempts had turned out to be false."
 
 A news clipping from the neural implant era is displayed.
-"This time, however, Mr {{x}}'s claims are substantiated.
+"This time, however, Mr Reeds's claims are substantiated.
 ATLAS did, indeed, decide on the immoral approach of enslaving citizens via the use of neural implants.
 This did actually happen, and Virtudyne had applied the approach critiqued by many business analysts: they have offered a financial compensation to every person so affected.
-At no point in Mr {{x}}'s rhetoric had that last fact appeared."
+At no point in Mr Reeds's rhetoric had that last fact appeared."
 
 The screen then reverted to the "S" at the start.
 "But the democracy was not the only thing undermined today.
